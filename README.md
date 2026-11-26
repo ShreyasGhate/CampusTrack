@@ -4,6 +4,9 @@
 
 This project uses Machine Learning to analyze electricity consumption across college campus buildings and group them according to their 24-hour energy usage patterns. It uses real university campus meter data from the Building Data Genome Project 2 (BDG2) and compares unsupervised clustering algorithms through an interactive Streamlit dashboard.
 
+## Deployed Link :
+https://campustrack.streamlit.app/
+
 ## Objectives
 
 - Analyze daily and hourly electricity consumption across campus buildings.
